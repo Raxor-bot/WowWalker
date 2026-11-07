@@ -1,0 +1,6 @@
+# Persönliche Einstellungen (iPhone-Adresse) - wird beim ersten Start angelegt
+wowwalker.json
+wowwalker.json.tmp
+
+__pycache__/
+*.pyc
